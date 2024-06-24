@@ -1,6 +1,6 @@
 ### Hi, sou Ariane Kelly Ribeiro dos Santos
-Atualmente trabalho como Full Stack Developer
-Graduanda em Sistema de Informação e Gestão Financeira
+Atualmente trabalho como Full Stack Web
+Graduanda em Engenharia de Software, na Faculdade Descomplica.
 E-mail: kelly.2013.kr@gmail.com
 
 <div>
