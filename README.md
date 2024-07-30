@@ -1,5 +1,5 @@
 ### Hi, sou Ariane Kelly Ribeiro dos Santos
-Atualmente trabalho como Front-End e Designer Freelancer
+Atualmente trabalho como Front-End e Designer Freelancer. 
 Graduanda em Engenharia de Software, na Faculdade Descomplica.
 E-mail: kelly.2013.kr@gmail.com
 
