@@ -1,5 +1,5 @@
 ### Hi, sou Ariane Kelly Ribeiro dos Santos
-Atualmente trabalho como Full Stack Web
+Atualmente trabalho como Front-End e Designer Freelancer
 Graduanda em Engenharia de Software, na Faculdade Descomplica.
 E-mail: kelly.2013.kr@gmail.com
 
@@ -30,7 +30,4 @@ E-mail: kelly.2013.kr@gmail.com
   <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
   <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/>
-  </div>
+  <div>
