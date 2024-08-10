@@ -1,33 +1,21 @@
-### Hi, sou Ariane Kelly Ribeiro dos Santos
-Atualmente trabalho como Front-End e Designer Freelancer. 
-Graduanda em Engenharia de Software, na Faculdade Descomplica.
-E-mail: kelly.2013.kr@gmail.com
+### Olá! Sou Ariane Kelly 👋
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arianekellyribeirodossantos&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianekellyribeirodossantos&layout=compact&theme=tokyonight"/>
-</div>
+Desenvolvedora com foco em **Unity** e **Desenvolvimento Mobile** (Java/Kotlin), e atualmente estudante de **Engenharia de Software** na Faculdade Descomplica. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades em uma variedade de linguagens e frameworks.
 
-### 👩🏻‍💻 Let`s get connected:
+#### 🚀 Tecnologias que utilizo:
+- **Java**, **Kotlin** (Desenvolvimento Mobile)
+- **C#** (Unity)
+- **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React**
 
-[![Whsatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/T2TCCJU6F23ON1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arianekellyribeiro/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-kelly-ribeiro-dos-santos-14a02295/)
+#### 🌟 O que eu faço:
+- Desenvolvimento de jogos interativos e experiências imersivas com Unity
+- Criação de aplicativos móveis nativos e eficientes para Android
+- Implementação de soluções web modernas e responsivas
 
-### ⚒️ Technologies e Tolls I use:
+#### 🔗 Conecte-se comigo:
+- **Portfólio:** [Ariane Kelly | Portfolio](https://arianekellyribeirodossantos.github.io)
+- **LinkedIn:** [Ariane Kelly Ribeiro dos Santos | LinkedIn](https://www.linkedin.com/in/ariane-kelly-ribeiro-dos-santos)
 
-<div>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>  
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-  <img align="center" alt="Ariane-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
-  <div>
+Vamos colaborar e criar algo incrível!
+
+
