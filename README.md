@@ -14,7 +14,6 @@ Desenvolvedora com foco em **Unity** e **Desenvolvimento Mobile** (Java/Kotlin),
 
 #### 🔗 Conecte-se comigo:
 - **Portfólio:** [Ariane Kelly | Portfolio](https://arianekellyribeirodossantos.github.io)
-- **LinkedIn:** [Ariane Kelly Ribeiro dos Santos | LinkedIn](https://www.linkedin.com/in/ariane-kelly-ribeiro-dos-santos)
 
 Vamos colaborar e criar algo incrível!
 
