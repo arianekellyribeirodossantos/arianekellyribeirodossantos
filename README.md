@@ -1,22 +1,21 @@
-### Olá! Sou Ariane Kelly 👋
+### Hey there! I'm Ariane Kelly, a passionate developer 👋
 
-Desenvolvedora com foco em **.Net**, **Unity** e **Desenvolvimento Mobile** (Java/Kotlin), e atualmente estudante de **Engenharia de Software** na Faculdade Descomplica. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades em uma variedade de linguagens e frameworks.
+I specialize in **Mobile Development** (Java/Kotlin) and bring games to life with **Unity** (C#/Blender). While pursuing a Software Engineering degree at Faculdade Descomplica and a Financial Management degree at Unifatecie, I'm always diving into new tech.
 
-#### 🚀 Tecnologias que utilizo:
-- **Java**, **Kotlin** (Desenvolvimento Mobile)
-- **C#** (Unity)
-- **.Net**
-- **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React**
+#### 🚀 My toolkit includes:
+- **Java**, **Kotlin** (for mobile magic)
+- **C#**, **Blender** (for game development)
+- **.Net**, **HTML**, **CSS** and **JavaScript**
+  
+#### 🌟 I love creating:
+- Immersive game experiences with Unity
+- Robust software solutions
+- Native Android apps
+- Responsive web experiences
+  
+#### 🔗 Connect with me:
+- **Portfolio:** [Ariane Kelly | Portfolio](https://arianekellyribeirodossantos.github.io)
 
-#### 🌟 O que eu faço:
-- Desenvolvimento de jogos interativos e experiências imersivas com Unity
-- Desenvolvimento de softwares modernos, seguros e robustos
-- Criação de aplicativos móveis nativos e eficientes para Android
-- Implementação de soluções web modernas e responsivas
-
-#### 🔗 Conecte-se comigo:
-- **Portfólio:** [Ariane Kelly | Portfolio](https://arianekellyribeirodossantos.github.io)
-
-Vamos colaborar e criar algo incrível!
+Let's collaborate and create something amazing!
 
 
