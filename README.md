@@ -1,21 +1,28 @@
-### Hey there! I'm Ariane Kelly, a passionate developer 👋
+### Olá, sou Ariane Kelly
+##  Android Developer e Game Developer 
 
-I specialize in **Mobile Development** (Java/Kotlin) and bring games to life with **Unity** (C#/Blender). While pursuing a Software Engineering degree at Faculdade Descomplica and a Financial Management degree at Unifatecie, I'm always diving into new tech.
+Desenvolvo aplicativos Android e jogos inovadores, combinando minha paixão por programação e design. Sou proficiente em Java, Kotlin e diversas engines de game development.
 
-#### 🚀 My toolkit includes:
-- **Java**, **Kotlin** (for mobile magic)
-- **C#**, **Blender** (for game development)
-- **.Net**, **HTML**, **CSS** and **JavaScript**
-  
-#### 🌟 I love creating:
-- Immersive game experiences with Unity
-- Robust software solutions
-- Native Android apps
-- Responsive web experiences
-  
-#### 🔗 Connect with me:
-- **Portfolio:** [Ariane Kelly | Portfolio](https://arianekellyribeirodossantos.github.io)
+**Habilidades:**
+* **Android:** Desenvolvimento de aplicativos nativos, UI/UX.
+* **Game Dev:** Programação de jogos 2D e 3D, design de níveis, otimização.
+* **Linguagens:** Java, Kotlin, C++, Lua.
+* **Engines:** Unreal Engine, Godot, Roblox Studio.
 
-Let's collaborate and create something amazing!
+**Contatos:**
+[[LinkedIn](https://www.linkedin.com/in/arianekellyribeirodossantos/)]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Hello, I'm Ariane Kelly
+##  Android Developer and Game Developer
 
+I develop innovative Android apps and games, combining my passion for programming and design. I am proficient in Java, Kotlin, and various game development engines.
+
+**Skills:**
+* **Android:** Native app development, UI/UX.
+* **Game Dev:** 2D and 3D game programming, level design, optimization.
+* **Languages:** Java, Kotlin, C++, Lua.
+* **Engines:** Unreal Engine, Godot, Roblox Studio.
+
+**Contatos:**
+[[LinkedIn](https://www.linkedin.com/in/arianekellyribeirodossantos/)]
