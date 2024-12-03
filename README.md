@@ -1,22 +1,19 @@
-## Ariane Kelly - Programadora Full-Stack e Educadora
+## Ariane Kelly - Game Developer
 
-**Uma jornada da contabilidade para o mundo tech.**
+**Atualmente mergulhando no universo das Ias e Realidade Virtual**
 
 ### Habilidades Técnicas
-* **Front-end:** HTML, CSS, JavaScript, React
-* **Mobile:** Java, Kotlin
-* **Back-end:** PHP, MySQL, NoSQL, SQL, Java, Python, C#
-* **Games:** Unity, Blender
-* **Outras:** UI/UX Design (Figma), RPA (Python)
+* Unreal
+* Unity
+* Gdeveloper
+* Roblox Studio
 
 ### Experiência
-* Desenvolvimento web e mobile
-* Criação de jogos
-* Automação de processos
-* Ensino de tecnologia e espanhol
+* Desenvolvimento de jogos Indie e Fps
+
 
 ### Sobre mim
-Sou apaixonada por tecnologia e ensino. Acredito em um mundo mais justo e igualitário.
+Sou apaixonada por tecnologia e quero levar todo conhecimento que tenho, ao máximo de pessoas possível!
 
 **Vamos construir juntos!**
 
