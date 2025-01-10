@@ -1,23 +1,23 @@
-## Ariane Kelly - Game Developer
+# Hello, world!
 
-**Atualmente mergulhando no universo das Ias e Realidade Virtual**
+Me chamo **Ariane**, sou programadora Web, mobile e de games. Sempre buscando me atualizar a cada dia, sou autodidata e muito curiosa (atualmente pelas Ias rs). Sou correspondente bancária em transição de carreira para área tech. 
 
-### Habilidades Técnicas
-* Unreal
-* Unity
-* Gdeveloper
-* Roblox Studio
+Sim, tenho um parafuso solto, pois me viciei em **Java** kkkk.
 
-### Experiência
-* Desenvolvimento de jogos Indie e Fps
+## Tags
+- #programadorafullstack
+- #java
+- #Javascript
 
-
-### Sobre mim
-Sou apaixonada por tecnologia e quero levar todo conhecimento que tenho, ao máximo de pessoas possível!
 
 **Vamos construir juntos!**
 
 **Contato:**
+
+Whatsapp: 4198782-9121  
+
+E-mail: [kelly.2013.kr@gmail.com](mailto:kelly.2013.kr@gmail.com)
+
 [[LinkedIn](https://www.linkedin.com/in/arianekellyribeirodossantos/)]
 
 
