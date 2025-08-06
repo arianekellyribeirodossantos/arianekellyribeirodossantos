@@ -1,10 +1,6 @@
-# Olá! 👋
+ Profissional com experiência sólida nas áreas bancária e contábil, atuando como Correspondente Bancária e Auxiliar Contábil. 
+Hoje, trilho uma nova jornada acadêmica e profissional como estudante de Engenharia de Software, com foco em Ciência de Dados, Machine Learning e Desenvolvimento de Jogos.
 
-Sou Ariane, estudante de Licenciatura em Ciência da Computação apaixonada por ensinar e aprender tecnologia.  
-Tenho experiência prática com Python, HTML, CSS, Scratch e ensino introdutório de programação.
-
-📚 Atualmente aprendendo: lógica, criação de sites e didática para crianças e iniciantes  
-💻 Explorando projetos com foco educacional e inclusão digital  
-📬 Entre em contato: 4198882-6107
+📬 Entre em contato: 419987829121
 
 Vamos conectar? 🌐
